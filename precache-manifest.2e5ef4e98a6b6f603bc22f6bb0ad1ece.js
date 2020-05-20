@@ -4,12 +4,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.b2e2b468.css"
   },
   {
-    "revision": "f5cebae153967ba0e4cd",
-    "url": "/css/app.3f741157.css"
+    "revision": "72fbcc4906c71312e371",
+    "url": "/css/app.998fd498.css"
   },
   {
-    "revision": "a37fb778ca5d69e7b939",
-    "url": "/css/chunk-vendors.70015bb7.css"
+    "revision": "b2ea76aea0e95c7d6168",
+    "url": "/css/chunk-vendors.c2e92d4e.css"
   },
   {
     "revision": "2a5545a80fd985ff09660c58ae4959b5",
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imgs/鼠疫.jpg"
   },
   {
-    "revision": "2f61e5ce240b27ce1fd048c566421082",
+    "revision": "1d9a81dd3db744b9984f7dbce58ad0dc",
     "url": "/index.html"
   },
   {
@@ -124,12 +124,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.faa4e74e.js"
   },
   {
-    "revision": "f5cebae153967ba0e4cd",
-    "url": "/js/app.6c46a8d1.js"
+    "revision": "72fbcc4906c71312e371",
+    "url": "/js/app.41b5c6f5.js"
   },
   {
-    "revision": "a37fb778ca5d69e7b939",
-    "url": "/js/chunk-vendors.1b0e83a9.js"
+    "revision": "b2ea76aea0e95c7d6168",
+    "url": "/js/chunk-vendors.697808cb.js"
   },
   {
     "revision": "01689463b67b944628e782691e1b9645",
