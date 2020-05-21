@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/css/about.b85a140b.css"
   },
   {
-    "revision": "cafb50d70d95b877677c",
+    "revision": "e1eed8d5687d57623b81",
     "url": "/css/app.2ad1c7d5.css"
   },
   {
@@ -116,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imgs/感染性腹泻.jpg"
   },
   {
-    "revision": "fc9e67aebab16701def64926962b0baf",
+    "revision": "16d305077c898cc6ccd559dbc75847c3",
     "url": "/imgs/拉沙热.jpg"
   },
   {
@@ -256,7 +256,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/imgs/鼻.jpg"
   },
   {
-    "revision": "3859d6ede11b38eb8724aac70a94524d",
+    "revision": "9a44595dc5df177726097c1a9b0eb20b",
     "url": "/index.html"
   },
   {
@@ -264,8 +264,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/js/about.61dfe628.js"
   },
   {
-    "revision": "cafb50d70d95b877677c",
-    "url": "/js/app.771fb67a.js"
+    "revision": "e1eed8d5687d57623b81",
+    "url": "/js/app.b613b4cf.js"
   },
   {
     "revision": "b2ea76aea0e95c7d6168",
